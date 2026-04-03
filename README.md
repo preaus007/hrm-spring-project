@@ -1,7 +1,3 @@
-Based on the API endpoints shown in your screenshots, here is a professional and structured `README.md` for your **Human Resource Management (HRM) & Project Tracking System**.
-
----
-
 # HRM & Project Management System (Backend)
 
 A robust backend service designed to streamline organizational workflows, tracking everything from employee daily productivity to complex project lifecycles and financial deposits. This system provides granular control over organizational data through a RESTful architecture.
