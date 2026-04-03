@@ -51,3 +51,22 @@ The system follows standard REST principles with consistent endpoint naming conv
 ## 📖 How to Use the API
 Access the full interactive documentation via Swagger UI at:
 `http://localhost:8080/api/v1/swagger-ui/index.html`
+
+## 📸 API Documentation Snippets
+
+### Project & Feature Management
+![Project Controller](project.PNG)
+![Feature Controller](feature.PNG)
+![Project Category](project-category.PNG)
+
+### Daily Goals & Analytics
+![Daily Goal Controller](daily-goal.PNG)
+
+### Financial & Client Management
+![Cash Deposit Controller](cash-deposit.PNG)
+![Client Controller](client.PNG)
+
+### Content & Categorization
+![Blog Controller](blog.PNG)
+![Category Controller](category.PNG)
+![Domain Controller](domain.PNG)
